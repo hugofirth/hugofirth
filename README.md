@@ -19,14 +19,14 @@ I’m Hugo: a software engineer who enjoys working on distributed systems, datab
 
 I’ve spent the last 5 years working on the distributed version of Neo4j. Before that I did a PhD and worked as a Research Engineer at Newcastle University.
 
-### 🖊️ Some things I've written:
+### 🖊️ Written recently:
 … over on [splitbrain.io](https://splitbrain.io)
 
-### 📚️ Some things I've read:
-… and made notes (of varying quality).
+### 📚️ Read recently:
+… and made notes on (to varying degrees of quality).
 
-### ⚙️ Some things I’ve implemented:
-… largely behind closed doors. I’ve pinned repos where p**oss**ible.
+### ⚙️ Implemented recently:
+… largely behind closed doors. I’ve pinned repos where p**OSS**ible.
 
 - Several large extensions to Neo4j's [Raft](https://raft.github.io/) implementation including mulit-raft, leadership transfer and raft observers/non-voters.
 - An eventually consistent discovery service for Neo4j clusters built upon CRDTs and gossip.
