@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 
 I’m Hugo: a software engineer who enjoys working on distributed systems, databases and graph-data problems.
 
-I’ve spent the last 5 years working on the distributed version of Neo4j. Before that I did a PhD and worked as a Research Engineer at Newcastle University.
+I’ve spent the last 5 years working on the distributed version of [Neo4j](https://github.com/neo4j/neo4j). Before that I did a PhD and worked as a Research Engineer at Newcastle University.
 
-### 🖊️ Written recently:
-… over on [splitbrain.io](https://splitbrain.io)
-
-### 📚️ Read recently:
-… and made notes on (to varying degrees of quality).
 
 ### ⚙️ Implemented recently:
 … largely behind closed doors. I’ve pinned repos where p**OSS**ible.
@@ -32,4 +27,12 @@ I’ve spent the last 5 years working on the distributed version of Neo4j. Befor
 - An eventually consistent discovery service for Neo4j clusters built upon CRDTs and gossip.
 - [Techniques for sharding graphs](https://theses.ncl.ac.uk/jspui/bitstream/10443/4416/1/Firth%20H%202018.pdf), optimising data distribution for a provided query workload to be executed over the graph.
 
+<!--
+### 🖊️ Written recently:
+… over on [splitbrain.io](https://splitbrain.io)
+
+### 📚️ Read recently:
+… and made notes on (to varying degrees of quality).
+
+-->
 
