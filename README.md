@@ -28,8 +28,8 @@ I’ve spent the last 5 years working on the distributed version of Neo4j. Befor
 ### ⚙️ Some things I’ve implemented:
 … largely behind closed doors. I’ve pinned repos where p**oss**ible.
 
-- Several large extensions to a [Raft](https://raft.github.io/) implementation widely used in production including mulit-raft, leadership transfer and raft observers/non-voters.
-- An eventually consistent cluster discovery service built upon CRDTs and gossip.
+- Several large extensions to Neo4j's [Raft](https://raft.github.io/) implementation including mulit-raft, leadership transfer and raft observers/non-voters.
+- An eventually consistent discovery service for Neo4j clusters built upon CRDTs and gossip.
 - [Techniques for sharding graphs](https://theses.ncl.ac.uk/jspui/bitstream/10443/4416/1/Firth%20H%202018.pdf), optimising data distribution for a provided query workload to be executed over the graph.
 
 
