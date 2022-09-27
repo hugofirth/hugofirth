@@ -21,7 +21,7 @@ I’ve spent the last 5 years working on the distributed version of [Neo4j](http
 
 
 ### 🔭 Worked on
-A selection of things I've worked on, largely behind closed doors. I’ve pinned repos where p**OSS**ible.
+In addition to my pinned repos, here are a few interesting things I've worked on "behind closed doors": 
 
 - Several large extensions to Neo4j's [Raft](https://raft.github.io/) implementation including mulit-raft, leadership transfer and raft observers/non-voters.
 - An eventually consistent discovery service for Neo4j clusters built upon CRDTs and gossip.
