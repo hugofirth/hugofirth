@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m Hugo: a software engineer who enjoys working on distributed systems, databases and graph-data problems.
 
-I’ve spent the last 6 years working on the distributed version of [Neo4j](https://github.com/neo4j/neo4j). Before that I worked as a Research Engineer and did a PhD at Newcastle University in the UK.
+I’ve spent the last 6 years working at [Neo4j](https://github.com/neo4j/neo4j), first on the clustered version of the database, and now on the full managed DBaaS: Aura. Before that I worked as a Research Engineer and did a PhD at Newcastle University in the UK.
 
 
 ### 🔭 Worked on
